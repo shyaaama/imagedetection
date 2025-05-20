@@ -33,4 +33,5 @@ Dataset included images of people wearing:
 🪖 Helmets
 
 🦺 Safety vests
+output https://github.com/shyaaama/imagedetection/blob/de75408d223a601ee50341c7572ac3d9e953658b/imagedetectionss.png
 
